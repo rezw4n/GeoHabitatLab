@@ -5947,10 +5947,6 @@ body.dsn-show-contact .contact-modal {
   transition: all 200ms ease;
 }
 
-.header.scrolled {
-  top: -40px;
-}
-
 /*********************************
 
 /*********************************
@@ -6013,15 +6009,6 @@ body.dsn-show-contact .contact-modal {
   -ms-transition: all 200ms ease;
   -o-transition: all 200ms ease;
   transition: all 200ms ease;
-}
-
-.header.scrolled .logo {
-  width: 60px;
-  height: 60px;
-}
-
-.header.scrolled .logo_text {
-  font-size: 20px;
 }
 
 /*********************************
@@ -6840,6 +6827,9 @@ body.dsn-show-contact .contact-modal {
   }
 }
 
+.cross_1 > img {
+  height: 4rem;
+}
 /************
 11. 539px
 ************/
